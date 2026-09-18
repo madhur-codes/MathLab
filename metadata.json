@@ -1,0 +1,6 @@
+{
+  "name": "MathLab — Interactive Mathematical Computing & Visualization System",
+  "description": "College-level mathematical laboratory desktop system and interactive workbench featuring scientific calculation, symbolic equation solving, multi-function graphing, matrix algebra, descriptive statistics, probability simulations, calculus, and comprehensive academic project documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
