@@ -1,7 +1,7 @@
 """
 MathLab Matrix Laboratory View
 Matrix algebra workspace: addition, multiplication, inverse, determinant, and spectral decomposition.
-Developed by: Shiva (Computation) & Ramji (Visualization)
+Developed by: Ramji (Computation) & Shiva (Visualization)
 """
 
 try:

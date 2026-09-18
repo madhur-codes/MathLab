@@ -1,7 +1,7 @@
 """
 MathLab Equation Solver Engine
 Solves linear, quadratic, simultaneous, and polynomial equations with step-by-step explanations.
-Developed by: Shiva (Mathematical Computation)
+Developed by: Ramji (Mathematical Computation)
 """
 
 import re

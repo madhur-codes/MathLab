@@ -2,7 +2,7 @@
 MathLab Matrix Laboratory Engine
 Comprehensive linear algebra operations: addition, multiplication, inverse, determinant, eigenvalues.
 Supports NumPy acceleration with pure Python fallback for dependency resilience.
-Developed by: Shiva (Mathematical Computation) & Ramji (Visualization)
+Developed by: Ramji (Mathematical Computation) & Shiva (Visualization)
 """
 
 from typing import List, Dict, Any, Optional, Tuple

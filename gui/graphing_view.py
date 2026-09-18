@@ -1,7 +1,7 @@
 """
 MathLab Graphing Laboratory View
 Embedded Matplotlib canvas for multi-function plotting, domain scaling, and PNG export.
-Developed by: Ramji (Visualization & Statistics)
+Developed by: Shiva (Visualization & Graphing)
 """
 
 try:

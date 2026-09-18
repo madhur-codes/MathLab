@@ -9,7 +9,7 @@ A complete 12-slide presentation outline with visual layout descriptions, slide 
 ### Visual Layout:
 - **Background:** Deep obsidian navy (`#0B1020`) with electric cyan (`#00D4FF`) title typography.
 - **Center:** Prominent MathLab logo icon with subtitle: *"Interactive Mathematical Computing & Visualization System"*.
-- **Footer:** Team Members: Madhur (Team Head), Shiva, Ramji | Degree: B.Tech Computer Science & Engineering | Academic Year 2025–2026.
+- **Footer:** Team Members: Madhur (Team Head), Ramji, Shiva | Degree: B.Tech Computer Science & Engineering | Academic Year 2025–2026.
 
 ### Bullet Points:
 - **MathLab**: An integrated desktop mathematical laboratory for higher education.
@@ -17,7 +17,7 @@ A complete 12-slide presentation outline with visual layout descriptions, slide 
 - **Core Philosophy**: Unified environment, zero black-box obscurity, educational transparency.
 
 ### Speaker Script:
-> "Good morning, respected professors and members of the evaluation committee. Today, our team—consisting of Madhur, Shiva, and Ramji—presents MathLab: an Interactive Mathematical Computing and Visualization System. 
+> "Good morning, respected professors and members of the evaluation committee. Today, our team—consisting of Madhur, Ramji, and Shiva—presents MathLab: an Interactive Mathematical Computing and Visualization System. 
 > 
 > In modern technical education, students and researchers frequently navigate a disjointed ecosystem of tools: basic calculators for arithmetic, web plotting tools for graphs, spreadsheets for statistics, and heavy commercial packages for algebra. MathLab eliminates this fragmentation by synthesizing scientific computation, computer algebra, empirical simulations, and data visualization into a unified, secure, and modern desktop application."
 
@@ -114,7 +114,7 @@ A complete 12-slide presentation outline with visual layout descriptions, slide 
 - **Polynomial Root Finder:** Uses SymPy to extract exact symbolic and numerical roots for $n$-th degree polynomials.
 
 ### Speaker Script:
-> "In the Equation Solver Studio, engineered by Shiva, we support linear, quadratic, 2x2 simultaneous, and general polynomial equations. 
+> "In the Equation Solver Studio, engineered by Ramji, we support linear, quadratic, 2x2 simultaneous, and general polynomial equations. 
 > 
 > Consider our quadratic solver: when a student enters coefficients like a=1, b=-5, and c=6, MathLab doesn't just show '3 and 2'. It displays the standard form, calculates the discriminant $\Delta = 1$, classifies the roots as two distinct real numbers, and shows the quadratic formula expansion step by step. If $\Delta < 0$, it cleanly extracts and formats complex roots with imaginary components."
 
@@ -133,7 +133,7 @@ A complete 12-slide presentation outline with visual layout descriptions, slide 
 - **Publication-Ready Export:** Save high-resolution 300 DPI PNG graphics for lab reports.
 
 ### Speaker Script:
-> "Our Graphing Laboratory, developed by Ramji, embeds Matplotlib directly into the Tkinter window using the FigureCanvasTkAgg backend. Students can plot up to three simultaneous functions to study intersections, wave interference, and transformations. 
+> "Our Graphing Laboratory, developed by Shiva, embeds Matplotlib directly into the Tkinter window using the FigureCanvasTkAgg backend. Students can plot up to three simultaneous functions to study intersections, wave interference, and transformations. 
 > 
 > We implemented automated asymptote detection: when plotting functions with discontinuities like tangent, MathLab detects extreme vertical gradients and masks them with NaN values, preventing the visual artifacts that commonly plague student plotting tools. Plots can also be exported as 300 DPI publication-ready PNG files."
 
@@ -242,8 +242,8 @@ A complete 12-slide presentation outline with visual layout descriptions, slide 
 ### Visual Layout:
 - Top: Engineering Team & Role Matrix:
   - Madhur: Project Architecture, Tkinter Shell, Navigation, SQLite Persistence, Documentation.
-  - Shiva: Mathematical Engines, AST Calculator, Equation Solvers, Symbolic Calculus.
-  - Ramji: Matplotlib Graphics Engine, Graphing Studio, Statistics, Probability Simulations.
+  - Ramji: Mathematical Engines, AST Calculator, Equation Solvers, Matrix Algebra, Symbolic Calculus.
+  - Shiva: Matplotlib Graphics Engine, Graphing Studio, Statistics, Probability Simulations.
 - Bottom: Future Roadmap (3D plotting, LaTeX rendering engine, ODE solvers).
 
 ### Bullet Points:
@@ -252,7 +252,7 @@ A complete 12-slide presentation outline with visual layout descriptions, slide 
 - **Future Roadmap:** 3D surface plotting ($z = f(x, y)$), Ordinary Differential Equation (ODE) solvers, and CSV data importing.
 
 ### Speaker Script:
-> "In conclusion, MathLab demonstrates how modern software engineering principles can be applied to build a collegiate-grade educational platform. Our team divided responsibilities according to our specializations: Madhur led the architecture, database, and GUI shell; Shiva implemented the core mathematical engines and calculus algorithms; and Ramji built the visualization and statistical simulation modules.
+> "In conclusion, MathLab demonstrates how modern software engineering principles can be applied to build a collegiate-grade educational platform. Our team divided responsibilities according to our specializations: Madhur led the architecture, database, and GUI shell; Ramji implemented the core mathematical engines and calculus algorithms; and Shiva built the visualization and statistical simulation modules.
 > 
 > MathLab is completely open source, documented in our comprehensive technical report and user manual, and ready for classroom use. Thank you for your time, and we now welcome any questions."
 

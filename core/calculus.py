@@ -1,7 +1,7 @@
 """
 MathLab Calculus Laboratory Engine
 Symbolic and numerical differentiation, definite/indefinite integration, and limits.
-Developed by: Shiva (Mathematical Computation)
+Developed by: Ramji (Mathematical Computation)
 """
 
 from typing import Dict, Any, Optional

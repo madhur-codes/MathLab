@@ -1,7 +1,7 @@
 """
 MathLab Calculus Studio View
 Symbolic differentiation, indefinite/definite integrals, limits, and function vs derivative plotting.
-Developed by: Shiva (Mathematical Computation)
+Developed by: Ramji (Mathematical Computation)
 """
 
 try:

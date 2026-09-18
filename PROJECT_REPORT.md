@@ -10,8 +10,8 @@
 - **Project Title:** MathLab — Interactive Mathematical Computing & Visualization System
 - **Engineering Team:**
   - **Madhur** (Team Head — Architecture, Integration, Database, GUI Shell)
-  - **Shiva** (Computation Specialist — Mathematical Algorithms, Calculus, CAS Engine)
-  - **Ramji** (Visualization Specialist — Graphics Engine, Probability & Statistics)
+  - **Ramji** (Computation Specialist — Mathematical Algorithms, Calculus, CAS Engine)
+  - **Shiva** (Visualization Specialist — Graphics Engine, Probability & Statistics)
 - **Academic Year:** 2025–2026
 - **Software Version:** 1.0.0
 

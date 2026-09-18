@@ -1,7 +1,7 @@
 """
 MathLab — Interactive Mathematical Computing & Visualization System
 Entry Point and Application Bootstrap
-Developed by: Madhur (Team Head), Shiva (Computation), Ramji (Visualization)
+Developed by: Madhur (Team Head), Ramji (Computation), Shiva (Visualization)
 """
 
 import sys

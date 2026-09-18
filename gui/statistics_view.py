@@ -1,7 +1,7 @@
 """
 MathLab Statistics Laboratory View
 Descriptive statistics calculator with embedded distribution charts (histogram, box plot, bar, pie).
-Developed by: Ramji (Visualization & Statistics)
+Developed by: Shiva (Visualization & Statistics)
 """
 
 try:

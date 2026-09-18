@@ -16,8 +16,8 @@
 **Institution Project:** College Laboratory & Course Project Presentation  
 **Lead Architecture & Coordination:**
 - **Madhur (Team Head)**: System architecture, desktop GUI shell, navigation controller, SQLite database persistence layer, integration testing, documentation, and viva defense coordination.
-- **Shiva (Mathematical Computation Specialist)**: Mathematical core engines, AST-safe expression parser, linear/quadratic/polynomial equation solver, symbolic calculus (differentiation, indefinite/definite integrals, limits), and SymPy bindings.
-- **Ramji (Visualization & Statistics Specialist)**: Dark-themed Matplotlib graphics engine, multi-function curve graphing studio, descriptive statistics distributions (histogram, box plot, bar, pie), and Monte Carlo probability simulations (coin toss & dice roll).
+- **Ramji (Mathematical Computation Specialist)**: Mathematical core engines, AST-safe expression parser, linear/quadratic/polynomial equation solver, matrix linear algebra algorithms, symbolic calculus (differentiation, indefinite/definite integrals, limits), and SymPy bindings.
+- **Shiva (Visualization & Statistics Specialist)**: Dark-themed Matplotlib graphics engine, multi-function curve graphing studio, descriptive statistics distributions (histogram, box plot, bar, pie), and Monte Carlo probability simulations (coin toss & dice roll).
 
 ---
 

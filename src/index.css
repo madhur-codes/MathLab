@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer components {
+  .key-sci {
+    @apply py-2.5 rounded-lg bg-[#151E34] hover:bg-slate-800 text-cyan-200 border border-slate-800 hover:border-cyan-500/40 font-semibold transition-all active:scale-[0.97] cursor-pointer text-center;
+  }
+  .key-op {
+    @apply py-2.5 rounded-lg bg-[#111A2E] hover:bg-[#1A253F] text-cyan-300 border border-slate-800 hover:border-cyan-500/40 font-semibold transition-all active:scale-[0.97] cursor-pointer text-center;
+  }
+  .key-num {
+    @apply py-2.5 rounded-lg bg-[#1A2338] hover:bg-[#222E4A] text-white border border-slate-700/60 hover:border-slate-500 font-bold transition-all active:scale-[0.97] cursor-pointer text-center text-sm;
+  }
+}

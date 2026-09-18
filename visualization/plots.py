@@ -2,7 +2,7 @@
 MathLab Visualization Engine
 Matplotlib figure generation for function graphing, statistics, and probability distributions.
 Designed for embedded Tkinter Canvas and file export.
-Developed by: Ramji (Visualization & Statistics)
+Developed by: Shiva (Visualization & Graphics)
 """
 
 from typing import List, Dict, Any, Optional, Tuple

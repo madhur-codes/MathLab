@@ -167,8 +167,8 @@ All SQL queries in `database/db_manager.py` use **parameterized queries** with p
 ### Q24: What were the specific responsibilities of each team member?
 **Answer:**
 - **Madhur (Team Head):** Conceptualized project architecture, implemented the main Tkinter application shell (`gui/app.py`), sidebar navigation, SQLite persistence layer (`db_manager.py`), unit converter, integration testing, and documentation.
-- **Shiva (Computation Specialist):** Developed the mathematical engines in `core/`: the safe AST calculator, linear/quadratic/polynomial equation solver, symbolic calculus module (differentiation, integration, limits), and SymPy symbolic integration.
-- **Ramji (Visualization Specialist):** Built the dark-themed Matplotlib plotting engine (`visualization/plots.py`), the Graphing Laboratory, descriptive statistics distribution charts, and empirical Monte Carlo probability simulations.
+- **Ramji (Computation Specialist):** Developed the mathematical engines in `core/`: the safe AST calculator, linear/quadratic/polynomial equation solver, matrix linear algebra engine, symbolic calculus module (differentiation, integration, limits), and SymPy symbolic integration.
+- **Shiva (Visualization Specialist):** Built the dark-themed Matplotlib plotting engine (`visualization/plots.py`), the Graphing Laboratory, descriptive statistics distribution charts, and empirical Monte Carlo probability simulations.
 
 ### Q25: What happens if a user runs MathLab on a headless Linux server without an X11/Wayland display?
 **Answer:**

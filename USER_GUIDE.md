@@ -48,7 +48,7 @@ python3 main.py --cli
 | ⇄ Converter   |                                                         |
 | ⚙ Settings    |                                                         |
 +---------------+---------------------------------------------------------+
-| Ready. Active module: Dashboard                       Madhur • Shiva • Ramji | <- Status Bar
+| Ready. Active module: Dashboard                       Madhur • Ramji • Shiva | <- Status Bar
 +-------------------------------------------------------------------------+
 ```
 

@@ -63,8 +63,8 @@ class SettingsView(ttk.Frame if TKINTER_AVAILABLE else object):
 
         members = [
             ("Madhur — Team Head", "Overall project architecture, GUI & dashboard, main integration, navigation, SQLite database, testing, and final presentation."),
-            ("Shiva — Computation Specialist", "Mathematical computation engine, scientific calculator, equation solver, calculus module, SymPy symbolic integration, formula validation."),
-            ("Ramji — Visualization Specialist", "Graphing and visualization, statistics module, probability laboratory, Matplotlib integration, simulation functionality."),
+            ("Ramji — Computation Specialist", "Mathematical computation engine, scientific calculator, equation solver, matrix algebra, calculus module, SymPy symbolic integration, formula validation."),
+            ("Shiva — Visualization Specialist", "Graphing and visualization, statistics module, probability laboratory, Matplotlib integration, simulation functionality."),
         ]
 
         for name, role in members:

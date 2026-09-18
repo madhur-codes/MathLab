@@ -1,7 +1,7 @@
 """
 MathLab Input Validators
 Validates user input before mathematical parsing to safeguard application stability.
-Developed by: Madhur & Shiva
+Developed by: Madhur & Ramji
 """
 
 import re

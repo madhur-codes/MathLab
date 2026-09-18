@@ -1,7 +1,7 @@
 """
 MathLab Scientific Calculator Engine
 Safe mathematical parser supporting arithmetic, trigonometry, logarithms, power, and constants.
-Developed by: Shiva (Mathematical Computation)
+Developed by: Ramji (Mathematical Computation)
 """
 
 import math

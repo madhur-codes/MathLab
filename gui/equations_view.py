@@ -1,7 +1,7 @@
 """
 MathLab Equation Solver View
 Sub-modules for Linear, Quadratic, Simultaneous System, and Polynomial Equations with steps.
-Developed by: Shiva (Mathematical Computation)
+Developed by: Ramji (Mathematical Computation)
 """
 
 try:

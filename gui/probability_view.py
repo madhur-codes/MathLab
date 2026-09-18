@@ -1,7 +1,7 @@
 """
 MathLab Probability Laboratory View
 Interactive simulations: Monte Carlo Coin Toss, Fair Dice Roll, Classical Probability, and Combinatorics.
-Developed by: Ramji (Visualization & Probability)
+Developed by: Shiva (Visualization & Probability)
 """
 
 try:

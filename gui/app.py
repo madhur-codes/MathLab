@@ -89,7 +89,7 @@ class MathLabApp:
         self.status_label = tk.Label(self.statusbar, text="Ready. Database initialized at mathlab.db", font=FONT_MONO, fg=COLOR_TEXT_SECONDARY, bg=COLOR_BG_SECONDARY, anchor="w", padx=12)
         self.status_label.pack(side="left", fill="x", expand=True)
 
-        author_label = tk.Label(self.statusbar, text="Madhur • Shiva • Ramji", font=FONT_BODY, fg=COLOR_TEXT_SECONDARY, bg=COLOR_BG_SECONDARY, padx=12)
+        author_label = tk.Label(self.statusbar, text="Madhur • Ramji • Shiva", font=FONT_BODY, fg=COLOR_TEXT_SECONDARY, bg=COLOR_BG_SECONDARY, padx=12)
         author_label.pack(side="right")
 
         # 3. Main Body Split: Left Sidebar + Right Viewport

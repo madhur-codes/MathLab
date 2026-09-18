@@ -1,7 +1,7 @@
 """
 MathLab Probability Laboratory Engine
 Simulations for coin tosses, dice rolls, combinatorics, and empirical vs theoretical probability.
-Developed by: Ramji (Visualization & Probability)
+Developed by: Shiva (Visualization & Probability)
 """
 
 import random

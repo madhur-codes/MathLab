@@ -1,7 +1,7 @@
 """
 MathLab Statistics Engine
 Computes comprehensive descriptive statistics, measures of central tendency, and dispersion.
-Developed by: Ramji (Visualization & Statistics)
+Developed by: Shiva (Visualization & Statistics)
 """
 
 import math

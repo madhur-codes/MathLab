@@ -1,7 +1,7 @@
 """
 MathLab Helper Functions
 Formatting, mathematical text preprocessing, and display conversions.
-Developed by: Madhur, Shiva & Ramji
+Developed by: Madhur, Ramji & Shiva
 """
 
 import math

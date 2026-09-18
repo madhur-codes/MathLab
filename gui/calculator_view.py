@@ -1,7 +1,7 @@
 """
 MathLab Scientific Calculator View
 Interactive keypad and expression entry with scientific functions and history log.
-Developed by: Shiva (Mathematical Computation)
+Developed by: Ramji (Mathematical Computation)
 """
 
 try:

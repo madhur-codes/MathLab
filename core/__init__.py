@@ -1,6 +1,6 @@
 """
 Core mathematical computation engines for MathLab.
-Developed by: Shiva (Mathematical Computation) & Ramji (Statistics & Probability)
+Developed by: Ramji (Mathematical Computation) & Shiva (Statistics & Probability)
 """
 
 from .calculator import ScientificCalculator
